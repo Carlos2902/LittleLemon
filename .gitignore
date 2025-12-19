@@ -1,9 +1,14 @@
-#ignoring the venv folder
+# Ignoring virtual environments
 venv/
+env/
+.venv/
+workspace/
+ENV/
+*.egg-info/
 __pycache__/
 *.pyc
 db.sqlite3
 .DS_Store
 .idea/
 .vscode/
-.env            
+.env
