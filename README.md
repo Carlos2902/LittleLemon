@@ -25,7 +25,7 @@ Test these routes in **Insomnia**:
 | :--- | :--- | :--- |
 | **Admin Panel** | GET | `http://127.0.0.1:8000/admin/` |
 | **Auth Token** | POST | `http://127.0.0.1:8000/restaurant/api-token-auth/` |
-| **Bookings** | GET/POST | `http://127.0.0.1:8000/restaurant/booking/tables/` |
+| **Bookings** | GET/POST | `http://127.0.0.1:8000/restaurant/booking/` |
 | **Menu** | GET | `http://127.0.0.1:8000/restaurant/menu/` |
 | **Menu Item** | GET | `http://127.0.0.1:8000/restaurant/menu/1` |
 | **User Mgmt** | GET/POST | `http://127.0.0.1:8000/auth/users/` |
