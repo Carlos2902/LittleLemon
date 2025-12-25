@@ -1,7 +1,7 @@
 from django.test import TestCase
-from ..models import Menu
+from restaurant.models import Menu
 from rest_framework.test import APIClient
-from ..serializers import MenuSerializer
+from restaurant.serializers import MenuSerializer
 
 from django.contrib.auth.models import User
 
